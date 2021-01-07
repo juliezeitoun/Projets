@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'Milkshake';
+  src: url('Polices/Milkshake.ttf');
+}
+body
+{
+  background-image: url('images/fondnoir4.jpg');
+  background-attachment: fixed;
+  color: white;
+  font-size: large;
+}
+h1
+{
+  color: #FFD700;
+  text-align: center;
+  padding-bottom: 30px;
+  font-size: 50px;
+}
+em{
+  color: #FFD700;
+  text-align: center;
+}
+header h1
+{
+  font-size: 100px;
+  font-family: 'Milkshake';
+  text-align: center;
+  border: 5px #FFD700 double ;
+  top:0%;
+  margin: 0%;
+  padding:30px;
+}
+em
+{
+  font-style: italic;
+  font-weight: bold;
+}
+strong
+{
+  color: #FFD700;
+  font-style: bold;
+}
+.intro
+{
+  text-align: center;
+  margin: 0%;
+  padding-top: 5%;
+  font-size: x-large;
+}
+
+.navbar
+{
+text-align: center;
+}
+.form{
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #FFD700;
+  border-radius: 20px;
+  padding:30px;
+}
+.progress{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+article{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 2px solid #FFD700;
+  padding:30px;
+  border-radius: 20px;
+  margin-bottom: 80px;
+}
+h2{
+  color: #FFD700;
+}
+.card-text{
+  color:black;
+}
+.card-deck{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+.card h2{
+  text-align: center;
+}
+img.imageflottante {
+  border: 5px #FFD700 double;
+}

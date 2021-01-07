@@ -1,0 +1,30 @@
+html
+
+<h1> <h2> ... titres
+<p> <br /> aller à la ligne sans sauter de ligne
+<em> mettre en italique
+<strong> mettre en gras
+<mark> surligner
+<ul> <li> lister (<ol> pour chiffrer)
+<a href=""> lien vers un autre site
+<img src="images/..." alt="Photo de ..."/> Ajouter une image
+<figure> placer l'image au milieu
+<p class=".a"> choisir quel paragraphe sera affecté
+
+css
+
+color : couleur
+font-size : taille (px) xx/x-/small, medium, xx/x-/large
+font-family : modifier la police
+font-style : affichage italique (italic, oblique)
+font-weight : affichage en gras (bold)
+text-decoration : underline(souligné), line-through(barré)
+text-align : aligner le texte (center, left, right, justify)
+float: faire flotter du texte ou une image
+background-color/image : couleur/image de fond
+background-attachment : le fond reste fixe
+border : modifier l'apparence de la bordure(width, color, style)
+border-radius : arrondir la bordure
+:hover: pour survoler les liens
+<header> : bannière
+<footer> : pied de l'image

@@ -1,0 +1,159 @@
+@media screen and (max-width: 980px)
+{
+        /* Principal content */
+    p
+    {
+        color: #666;;
+	    font-size: 14px;
+    }
+
+    h4
+    {
+        color: black;
+        font-size: 19px;
+    }
+
+    h4 + p
+    {
+        color: #747d88;
+        font-size: 14px;
+    }
+
+    /* Button */
+    .btn-circle 
+    {
+        border-radius: 0px;
+        border: #cf0a2c;
+    }
+
+    .btn-outline-light:hover:after 
+    {
+        color: #cf0a2c;
+    }
+
+    .btn-outline-warning:hover:after 
+    {
+        color: #cf0a2c;
+    }
+
+    .letter-spacing
+    {
+        color: #cf0a2c;
+    }
+
+    #letter-spacing
+    {
+        color: #cf0a2c;
+    }
+
+    /* Page layout with Flexbox */
+    /* Bloc zero */
+    #container
+    {
+        background-color: white;
+        background-image: none;
+    }
+
+    #big-title
+    {
+        color: #555;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 1.em;
+    }
+
+    #container-img
+    {
+        display: none;
+    }
+
+    /* First Bloc */
+    #container1-title
+    {
+        font-size: 14px;
+    }
+
+    /* Second Bloc */
+    #section-container2
+    {
+        background-color: white;
+        padding-bottom: 0px;
+    }
+
+    #container2-title
+    {
+        color: #747d88;
+        font-size: 14px;
+    }
+
+    .container2-icon1,.container2-icon2,.container2-icon3,.container2-icon4
+    {
+        width: 60px;
+        height: 60px;
+    }
+
+    /* Third Bloc */
+    #container3-title
+    {
+        font-size: 14px;
+    }
+
+    .element3:nth-child(1),.element3:nth-child(3)
+    {
+        min-width: 350px;
+        max-height: 325px;
+    }
+
+    .element3:nth-child(2)
+    {
+        min-width: 350px;
+        height: 400;
+    }
+
+    #element3-button
+    {
+        color: #cf0a2c;
+    }
+
+    /* Fourth Bloc */
+    #section-container4
+    {
+        background-color: white;
+    }
+
+    #container4-title
+    {
+    	color: #747d88;
+        font-size: 14px;
+    }
+
+    .element4:nth-child(1),.element4:nth-child(2),.element4:nth-child(3),.element4:nth-child(4),.element4:nth-child(5)
+    {
+        width: 250px;
+        height: 150px;
+        padding: 19px;
+    }
+
+    .element4-paragraph
+    {
+        text-transform: lowercase;
+        color: black;
+    }
+
+    .number
+    {
+        font-size: 40px;
+        color: #666666;
+    }
+
+    /* Fifth Bloc */
+    #container5
+    {
+        padding-inline-start: 180px;
+    }
+
+    .element5
+    {
+        height: 250px;
+    }
+}
